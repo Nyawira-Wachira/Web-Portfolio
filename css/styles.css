@@ -1,0 +1,33 @@
+img {
+  width: 23%;
+  height: min-content;
+}
+
+h1 {
+  color:chartreuse;
+  font-size: larger;
+}
+h2 {
+  color:blue;
+  font-size: larger;
+}
+h3 {
+  color:aqua;
+  font-size: large;
+}
+p {
+  color: white;
+  font-size: medium;
+}
+ul {
+  
+  color: white;
+  font-size: medium;
+}
+ol {
+  color:cornflowerblue;
+  font-size: large;
+}
+body {
+  background-color: rgb(0, 0, 0);
+}
