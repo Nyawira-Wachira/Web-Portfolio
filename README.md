@@ -13,6 +13,7 @@ Here is the link to the landing page.
 https://nyawira-wachira.github.io/Web-Portfolio/
 ### License
 Nyawira-Wachira/Web-Portfolio is licensed under the MIT License.
- Here is the link to the license
+
+Here is the link to the license
 https://github.com/Nyawira-Wachira/Web-Portfolio/blob/master/LICENSE
   
