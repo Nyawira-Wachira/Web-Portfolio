@@ -15,5 +15,6 @@ https://nyawira-wachira.github.io/Web-Portfolio/
 Nyawira-Wachira/Web-Portfolio is licensed under the
 
 MIT License
-A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+Here is the link to the license
+https://github.com/Nyawira-Wachira/Web-Portfolio/blob/master/LICENSE
   
