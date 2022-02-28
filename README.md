@@ -1,7 +1,5 @@
 # Web-Portfolio
 The Landing page for my programming portfolio.
-# {Application Name}
-Portfolio Landing Page
 #### By
 Abigail Wachira
 ## Description
