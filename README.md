@@ -1,9 +1,9 @@
-# Web-Portfolio
-The Landing page for my programming portfolio.
+# Project Name
+Web-Portfolio
 #### By
 Abigail Wachira
 ## Description
-It is a page that gives a general overview of who I am, the work/projects that I have done or taken part in creating.
+It is the Landing page for my programming portfolio that gives a general overview of who I am, the work/projects that I have done or taken part in creating.
 ## Setup/Installation Requirements
 * Click on the link provided in the link section to open the page.
 * Study the page clearly to know the type of projects I create in a browser.
