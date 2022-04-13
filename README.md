@@ -10,7 +10,6 @@ It is the Landing page for my programming portfolio that gives a general overvie
 * Click on the links to my projects to understand what they are about.
 ## Link to project
 Here is the link to the landing page.
-https://nyawira-wachira.github.io/Web-Portfolio/
 ### License
 Nyawira-Wachira/Web-Portfolio is licensed under the MIT License.
 
